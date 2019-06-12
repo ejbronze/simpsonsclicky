@@ -1,6 +1,6 @@
-##The Simpsons Clicky Game
+## The Simpsons Clicky Game
 
-https://ejbronze.github.io/clickyGameApp/
+https://ejbronze.github.io/simpsonscl…
 
 <!--## Available Scripts-->
 <!---->
