@@ -4,8 +4,12 @@
 
 ## Downloading:
 
-<b>Step #1</b> `npm install`
-<b>Step #2</b> `npm start`
+<ul>
+    <li><b>Step #1</b></li>
+    <code>npm install</code>
+    <li><b>Step #2</b></li>
+    <code>npm start</code>
+</ul>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
