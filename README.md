@@ -2,6 +2,11 @@
 
 ![](public/screenshotapp.png)
 
+## Downloading:
+
+<b>Step #1</b> `npm install`
+<b>Step #2</b> `npm start`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
