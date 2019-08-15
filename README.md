@@ -11,6 +11,13 @@
     <code>npm start</code>
 </ul>
 
+## Gameplay
+
+<ul>
+    <li>This is a memory game.</li>
+    <li>There are 12 tiles. The player must click on each tile, while they re-shuffle each time. To win, the player must remember which tiles they already clicked on, without clicking the same tile twice. If the same tile is clicked, the score will reset to <strong>0</strong>.</li>
+</ul>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
